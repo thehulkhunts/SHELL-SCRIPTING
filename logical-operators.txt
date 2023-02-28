@@ -1,0 +1,17 @@
+  So, what do you meant by logical operators ?
+  check the conditions and execute the statements .
+
+  
+ what are logical operators available in shell scripting ?
+
+ 1) AND - operator   && and  -a 
+ 2) OR -  operator   || and  -o
+ 3) NOT - operator   ! and   -n  
+
+
+       AND (-a)              OR (-o)                NOT (!)
+    
+  T - T = T       T - T = T               F T  IF IT IS FALSE THEN IT WILL BE TRUE
+  T - F = F       T - F = T               T F  IF IT IS TRUE THEN IT WILL BE FALSE 
+  F - T = F       F - T = T
+  F - F = F       F - F = F
